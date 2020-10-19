@@ -12,6 +12,7 @@ Inside the frontend-ecommerce folder run the command-
 1) npm install
 
 2) ng serve --open
+
 The application will be up and running.
 
 Access the application using localhost:4200
